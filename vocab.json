@@ -1,11 +1,21 @@
-json fake file 
-
-
-code bleh bleh blej
-
-
-
-
-more code bleh
-
-
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "IT",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+      "correct_answer": "Jason",
+      
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+      "correct_answer": "Eris",
+      
+    }
+  ]
+}
