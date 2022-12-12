@@ -1,21 +1,23 @@
 {
-  "response_code": 0,
-  "results": [
+  "HikingTrails": [
     {
-      "category": "IT",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
-      "correct_answer": "Jason",
       
+      "TrailImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+      "TrailName": "Trojan horse",
+      "TrailWebsite": "https://www.hikingupward.com/snp/oldrag/",
+      "TrailDescription": "Used to track users into running a virus.",
+     
     },
     {
-      "category": "Mythology",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "This Greek goddess name was chosen for the dwarf planet responsible for discord on Pluto classification amongst astronomers.",
-      "correct_answer": "Eris",
       
-    }
-  ]
+      "TrailImage": "http://www.protogic.com/images/White_Oak.jpg",
+      "TrailName": "Keylogging",
+      "TrailWebsite": "https://www.hikingupward.com/SNP/WhiteOakCedarRun/",
+      "TrailDescription": "Virus that secretely records your keystrokes.",
+      
+    },
+   
+   
+  ],
+  "Status": "OK"
 }
