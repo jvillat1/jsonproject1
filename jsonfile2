@@ -1,0 +1,21 @@
+{
+  "CSvocab": [
+    {
+      
+      
+      "VocabName": "Trojan horse",
+      "VocabDefinition": "Used to track users into running a virus.",
+     
+    },
+    {
+      
+      
+      "VocabName": "Keylogging",
+      "VocabDefinition": "Virus that secretely records your keystrokes.",
+      
+    },
+   
+   
+  ],
+  "Status": "OK"
+}
