@@ -1,12 +1,13 @@
 {
   "CSvocab": [
-    {
-      
+     {
+    
       
       "VocabName": "Trojan horse",
       "VocabDefinition": "Software that appears to be beneficial but is designed to violate security, tricks user and runs malware.",
      
     },
+
     {
       
       
@@ -14,7 +15,63 @@
       "VocabDefinition": "Virus that secretely records a users keystrokes.",
       
     },
+
+
+ {
+      
+      
+      "VocabName": "Logic bomb",
+      "VocabDefinition": "where one of the conditions is a specific time or date.",
+      
+    },
+   
+     {
+      
+      
+      "VocabName": "RootKit",
+      "VocabDefinition": "designed to take control of the root account of a system.",
+      
+    },
     
+     {
+      
+      
+      "VocabName": "Ransomware",
+      "VocabDefinition": "Virus that threatens to lock a system or data unless a user pays.",
+      
+    },
+    
+      {
+      
+      
+      "VocabName": "Adware",
+      "VocabDefinition": "designed to show advertisements to a user without their permission.",
+      
+    },
+    
+     {
+      
+      
+      "VocabName": "Malware",
+      "VocabDefinition": "Any software that harms are computer.",
+      
+    },
+    
+     {
+      
+      
+      "VocabName": "Denial of Service",
+      "VocabDefinition": "Uses multiple computers to flood servers with data packets.",
+      
+    },
+    
+    {
+      
+      
+      "VocabName": "Software Worm",
+      "VocabDefinition": "Self replicating program?.",
+      
+    },
     
     
    
