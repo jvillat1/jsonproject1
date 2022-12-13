@@ -1,18 +1,16 @@
 {
-  "HikingTrails": [
+  "CSvocab": [
     {
       
-      "TrailImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+      
       "VocabName": "Trojan horse",
-      "TrailWebsite": "https://www.hikingupward.com/snp/oldrag/",
       "VocabDefinition": "Used to track users into running a virus.",
      
     },
     {
       
-      "TrailImage": "http://www.protogic.com/images/White_Oak.jpg",
+      
       "VocabName": "Keylogging",
-      "TrailWebsite": "https://www.hikingupward.com/SNP/WhiteOakCedarRun/",
       "VocabDefinition": "Virus that secretely records your keystrokes.",
       
     },
